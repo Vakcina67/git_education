@@ -1,3 +1,4 @@
+# Пример рекурсии
 def f(a, b):
     if b <= 1:
         return a
